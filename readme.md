@@ -9,3 +9,7 @@ command line utilities written in python
 
 ## License
 code is placed in the public domain, 2016.
+
+## Contact
+George Craig 
+<georgeacraig@gmail.com>
